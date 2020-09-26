@@ -4,7 +4,7 @@
 2. Farhan Fadhlurrohman 
 3. Prabowo Darmawi
 
-#FABULOSO
+# FABULOSO
 
 **Fabuloso** sebuah produk cairan pembersih rumah tangga yang pernah membawa bencana bagi para konsumennya. 
 Mengapa dapat membawa bencana? karena para konsumen mengira bahwa **Fabuloso** bukanlah sebuah cairan pembersih
