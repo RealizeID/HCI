@@ -26,4 +26,6 @@ Dalam interview ini, kami mewawancari Kak Habib. Kak Habib adalah seorang UX Des
 
 Kak Habib juga memberikan contoh project yang dia kerjakan, yaitu melalui link : https://riliv.co/hening!
 
-UNtuk profil Kak Habib dapat diakses melalui: [Profil Habib Al-Hakim](https://www.linkedin.com/mwlite/in/habib-al-hakim-a097aa172)  
+Untuk profil Kak Habib dapat diakses melalui: [Profil Habib Al-Hakim](https://www.linkedin.com/mwlite/in/habib-al-hakim-a097aa172)
+
+Dokumentasi interview dapat dilihat melalui : https://www.youtube.com/watch?v=uy879Jw5N1g!
