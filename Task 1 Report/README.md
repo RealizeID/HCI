@@ -9,6 +9,8 @@ orang-orang yang tidak sengaja menelan cairan pembersih rumah tangga.
 
 Hal ini dapat terjadi karena beberapa alasan, kemasan yang berbentuk layaknya botol minuman, kurangnya penjelasan mengenai produk di kemasan, dan tampilan produk yang menarik layaknya produk minuman. Mungkin ada beberapa alasan dari kesalahan tersebut yang dianggap oleh produsen dapat menarik minat konsumen untuk membeli _Fabuloso_, tetapi justru membawa kecelakaan bagi pembelinya.
 
+Ada baiknya bagi produsen untuk merubah _design_ dari botol kemasan _Fabuloso_. Pergantian ini ditujukan untuk keselamatan konsumen, agar konsumen tidak salah mengira kalau produk yang dibelinya adalah minuman.
+
 Untuk menyelesaikan masalah ini, kelompok kami telah membuat sebuah _Mock-Up Design_ dari _Fabuloso_ 
 
 ![fabuloso Improve Design](https://github.com/RealizeID/HCI/blob/master/Task%201%20Report/Fabuloso%20Design/Improved-design.jpeg)
