@@ -23,3 +23,5 @@ Dalam interview ini, kami mewawancari Kak Habib. Kak Habib adalah seorang UX Des
 5. **Sejauh ini sudah projek desain yang kak Habib kerjakan**
 
    Desain yang telah dikerjakan sudah lumayan banyak, dalam bentuk project, selama kuliah saya menyelesaikan 7 project, dan selama bekerja di perusahaan saya sudah        menyelesaikan 3 project UX design.
+
+Kak Habib juga memberikan contoh project yang dia kerjakan, yaitu melalui link : https://riliv.co/hening!
