@@ -17,4 +17,11 @@ Hal ini dapat terjadi karena beberapa alasan, kemasan yang berbentuk layaknya bo
 
 Untuk menyelesaikan masalah ini, kelompok kami telah membuat sebuah _Mock-Up Design_ dari _Fabuloso_ 
 
-![fabuloso Improve Design](
+![fabuloso Improve Design](https://github.com/RealizeID/HCI/blob/master/image/Improved-design.jpeg)
+
+Ada beberapa hal yang kami kembangkan untuk _design_ dari kemasan _fabuloso_, seperti:
+1. Bentuk botol kemasan yang berbeda dengan botol minuman, agar pembeli mengetahui bahwa itu bukan minuman
+2. Tulisan "_Household Cleaner_" didepan kemasan agar pembeli tahu bahwa produk merupakan cairan pembersih rumah tangga.
+3. Tutup botol kemasan yang berbentuk tabung untuk mempermudah dalam mengukur dan menuangkan cairan.
+
+Sumber : https://psmag.com/news/looks-can-kill-the-deadly-results-of-bad-design!
