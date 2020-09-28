@@ -11,7 +11,7 @@ Hal ini dapat terjadi karena beberapa alasan, kemasan yang berbentuk layaknya bo
 
 Untuk menyelesaikan masalah ini, kelompok kami telah membuat sebuah _Mock-Up Design_ dari _Fabuloso_ 
 
-![fabuloso Improve Design](https://github.com/RealizeID/HCI/blob/master/image/Improved-design.jpeg)
+![fabuloso Improve Design](https://github.com/RealizeID/HCI/blob/master/Task%201%20Report/Fabuloso%20Design/Improved-design.jpeg)
 
 Ada beberapa hal yang kami kembangkan untuk _design_ dari kemasan _fabuloso_, seperti:
 1. Bentuk botol kemasan yang berbeda dengan botol minuman, agar pembeli mengetahui bahwa itu bukan minuman
