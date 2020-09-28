@@ -17,4 +17,4 @@ Hal ini dapat terjadi karena beberapa alasan, kemasan yang berbentuk layaknya bo
 
 Untuk menyelesaikan masalah ini, kelompok kami telah membuat sebuah _Mock-Up Design_ dari _Fabuloso_ 
 
-
+![fabuloso Improve Design](
