@@ -1,9 +1,3 @@
-**Tugas HCI**
-**Team C**
-1. Muhammad Adin Nugroho
-2. Farhan Fadhlurrohman 
-3. Prabowo Darmawi
-
 # FABULOSO
 
 **Fabuloso** sebuah produk cairan pembersih rumah tangga yang pernah membawa bencana bagi para konsumennya. Para konsumen mengira bahwa _Fabuloso_ bukanlah sebuah cairan pembersih rumah tangga, tetapi sebuah minuman.
