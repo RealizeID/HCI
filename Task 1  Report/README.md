@@ -13,4 +13,6 @@ Menurut kami Tampilan dari Aplikasi ini terasa Kaku dan Warna _Navigation Bar_ d
 2. Fitur
 Aplikasi ini juga memiliki fitur untuk menghapus barang, tetapi tak bisa hanya menghapus salah satu barangnya melainkan langsung menghapus semua barang yang terdaftar. lalu dalam halaman utama, setelah ditambahkan barang tidak ditampilkan gambar dari barang yang telah ditambahkan. 
 
+Lalu dari sisi Interkasi Kontrolnya kami merasakan bahwa aplikasi in
+
 Itulah beberapa hal yang menurut kami kurang dari aplikasi ini
