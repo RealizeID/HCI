@@ -1,4 +1,4 @@
-# Interview Dengan Kak Habib Al-Hakim 
+# Interview Dengan Kak Habib  
 
 Dalam interview ini, kami mewawancari Kak Habib. Kak Habib adalah seorang UX Designer di sebuah perusahaan, ia juga baru menyelesaikan kuliahnya sekitar 3 tahun lalu, dan setelah lulus ia memutuskan untuk terjun ke dunia UX
 
