@@ -24,4 +24,4 @@ Inilah _Use Case_ dari Aplikasi Kewirausahaan MTK UNJ:
 ![Lihat Disini](https://github.com/RealizeID/HCI/blob/hw2/Task%201%20%20Report/Use%20Case/Use%20Case.png)
 
 Dan inilah _Activity Diagram_ dari Aplikasi ini:
-![Lihat Disini]()
+![Lihat Disini](https://github.com/RealizeID/HCI/blob/hw2/Task%201%20%20Report/Activity%20Diagram/Activity%20Diagram.png)
