@@ -20,5 +20,8 @@ Lalu dari sisi Interaksi Kontrolnya kami merasakan bahwa aplikasi ini kurang dal
 
 _Business Use Case_ dari Aplikasi ini adalah fitur penyimpanan barang untuk Kewirausahaan Rumpun Matematika Universitas Negeri Jakarta. 
 
-Inilah Use case dari Aplikasi Kewirausahaan MTK UNJ: 
-![UseCase]()
+Inilah _Use Case_ dari Aplikasi Kewirausahaan MTK UNJ: 
+![Lihat Disini](https://github.com/RealizeID/HCI/blob/hw2/Task%201%20%20Report/Use%20Case/Use%20Case.png)
+
+Dan inilah _Activity Diagram_ dari Aplikasi ini:
+![Lihat Disini]()
