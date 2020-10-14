@@ -5,5 +5,12 @@
 * Email: muhammadrizkipangestu@gmail.com
 * Link Playstore: https://play.google.com/store/apps/details?id=muhammadrizkipangestu.aplikasi.kwhmtkunj.mobcom&hl=in!
 
-Kali ini kami berkesempatan untuk mereview dan mengevaluasi Aplikasi bernama Kewirausahaan MTK UNJ. Palikasi ini dikembangkan oleh R3Mobile dan merupakan aplikasi yang ditujukan untuk memudahkan penyimpanan barang di Kewirausahaan Rumpun Matematika Universitas Negeri Jakarta. Banyak hal yang menurut kami kurang dari aplikasi ini, baik dalam segi _User Interface_ maupun _User experience_ dari Aplikasi ini.  
+Kali ini kami berkesempatan untuk mereview dan mengevaluasi Aplikasi bernama Kewirausahaan MTK UNJ. Palikasi ini dikembangkan oleh R3Mobile dan merupakan aplikasi yang ditujukan untuk memudahkan penyimpanan barang di Kewirausahaan Rumpun Matematika Universitas Negeri Jakarta. Banyak hal yang menurut kami kurang dari aplikasi ini, baik dalam segi _User Interface_ maupun _User experience_ dari Aplikasi ini, Antara lain:
 
+1. Tampilan
+Menurut kami Tampilan dari Aplikasi ini terasa Kaku dan Warna _Navigation Bar_ di tiap _page_-nya memiliki warna yang berubah-ubah atau tidak konsisten.
+
+2. Fitur
+Aplikasi ini juga memiliki fitur untuk menghapus barang, tetapi tak bisa hanya menghapus salah satu barangnya melainkan langsung menghapus semua barang yang terdaftar. lalu dalam halaman utama, setelah ditambahkan barang tidak ditampilkan gambar dari barang yang telah ditambahkan. 
+
+Itulah beberapa hal yang menurut kami kurang dari aplikasi ini
