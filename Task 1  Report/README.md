@@ -14,6 +14,11 @@ Menurut kami Tampilan dari Aplikasi ini terasa Kaku dan Warna _Navigation Bar_ d
 2. Fitur
 Aplikasi ini juga memiliki fitur untuk menghapus barang, tetapi tak bisa hanya menghapus salah satu barangnya melainkan langsung menghapus semua barang yang terdaftar. lalu dalam halaman utama, setelah ditambahkan barang tidak ditampilkan gambar dari barang yang telah ditambahkan. 
 
-Lalu dari sisi Interkasi Kontrolnya kami merasakan bahwa aplikasi in
+Untuk sisi tampilannya kami merasa kurang di warnanya yang kurang konsisten dan tidak teratur, sebagai contoh warna _Navigation Bar_ di halaman utama berwarna biru, lalu setelah menekan tombol tambah barang warna _Navigation Bar_-nya berubah jadi kuning.
 
-Itulah beberapa hal yang menurut kami kurang dari aplikasi ini
+Lalu dari sisi Interaksi Kontrolnya kami merasakan bahwa aplikasi ini kurang dalam beberapa hal, yaitu tidak adanya fitur Menghapus salah satu barang, tidak adanya infomasi mengenai developer, tidak ditampilkannya gambar dari barang yang telah ditambahkan.
+
+_Business Use Case_ dari Aplikasi ini adalah fitur penyimpanan barang untuk Kewirausahaan Rumpun Matematika Universitas Negeri Jakarta. 
+
+Inilah Use case dari Aplikasi Kewirausahaan MTK UNJ: 
+![UseCase]()
