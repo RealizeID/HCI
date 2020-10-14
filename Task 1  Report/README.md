@@ -1,5 +1,5 @@
 # Aplikasi Kewirausahaan MTK UNJ
-![PlaystoreApp] (https://github.com/RealizeID/HCI/blob/hw2/Task%201%20%20Report/PlaystoreApp.jpeg)
+![PlaystoreApp](https://github.com/RealizeID/HCI/blob/hw2/Task%201%20%20Report/PlaystoreApp.jpeg)
 * Nama Aplikasi: Kewirausahaan MTK UNJ
 * Developer: R3Mobile
 * Email: muhammadrizkipangestu@gmail.com
